@@ -34,7 +34,7 @@
 ## 💻 Skills & Tools
 
 **Programming:** Python, Julia, Fortran, C, Octave  
-**Technologies:** PyTorch, Meep, Lumerical, LaTeX, Blender  
+**Technologies:** PyTorch, Meep, Lumerical, LaTeX, Blender, Linux  
 **Other:** High Performance Computing, Data Science, Numerical Simulations
 
 ---
