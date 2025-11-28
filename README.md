@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vinícius Bastos Marcos
 
-🎓 **Master’s Student in Experimental and Theoretical Physics** @ University of São Paulo (IFSC-USP)  
+🎓 **PhD Student in Experimental and Theoretical Physics** @ University of São Paulo (IFSC-USP)  
 🎓 **B.Sc. in Computational Physics** @ University of São Paulo (IFSC-USP)  
 💡 Researching **Quantum Nanophotonics** and **Machine Learning** (Deep Neural Networks, Physics-Informed Neural Networks) for the inverse design of nanophotonic devices.  
 📍 São Carlos, Brazil
@@ -12,8 +12,7 @@
 **Physics & Photonics**  
 ![Quantum Nanophotonics](https://img.shields.io/badge/Quantum%20Nanophotonics-purple?style=for-the-badge)  
 ![Plasmonics](https://img.shields.io/badge/Plasmonics-yellow?style=for-the-badge)  
-![Computational Physics](https://img.shields.io/badge/Computational%20Physics-orange?style=for-the-badge) 
-![Quantum Optics](https://img.shields.io/badge/Quantum%20Optics-indigo?style=for-the-badge)  
+![Computational Physics](https://img.shields.io/badge/Computational%20Physics-orange?style=for-the-badge)  
 
 **Machine Learning & Numerical Methods**  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)  
